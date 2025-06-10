@@ -2,9 +2,11 @@
 This project is a binary classification machine learning model that predicts whether a plant will grow (Yes) or not (No) based on its associated input features. It demonstrates the end-to-end ML pipeline including data preprocessing, exploratory data analysis, model training, evaluation, and hyperparameter tuning.
 
 📂 Repository Structure
-├── Mini_Project_Machine_Learning_code.ipynb  # Jupyter notebook with the full ML pipeline
-├── plant_growth_data.csv                    # Dataset (assumed location, update if needed)
-└── README.md                                # Project overview and documentation
+
+├── Mini_Project_Machine_Learning_code.ipynb  
+├── plant_growth_data.csv                    
+└── README.md                      
+
 🚀 Features
 Data cleaning and preprocessing
 
