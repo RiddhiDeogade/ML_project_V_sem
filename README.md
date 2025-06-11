@@ -8,11 +8,9 @@ This project is a binary classification machine learning model that predicts whe
 └── README.md                      
 
 ## 🚀 Features
-Data cleaning and preprocessing
-
-Exploratory data analysis (EDA) with visualizations
-
-Feature selection using SelectKBest
+- Data cleaning and preprocessing
+- Exploratory data analysis (EDA) with visualizations
+- Feature selection using SelectKBest
 
 ## Models:
 
@@ -34,12 +32,7 @@ Matplotlib, Seaborn, Plotly
 
 📝 How to Use
 1. Clone this repository
-2. Open the notebook:
-Locally via Jupyter Notebook, or
-
-In Google Colab:
-Upload or link your dataset (plant_growth_data.csv).
-
+2. Open the notebook: Locally via Jupyter Notebook, or In Google Colab: upload or link your dataset (plant_growth_data.csv).
 3. Run the notebook to train and evaluate the models.
 
 ## 📊 Results
