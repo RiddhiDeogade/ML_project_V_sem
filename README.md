@@ -7,59 +7,52 @@ This project is a binary classification machine learning model that predicts whe
 ├── plant_growth_data.csv                    
 └── README.md                      
 
-🚀 Features
+## 🚀 Features
 Data cleaning and preprocessing
 
 Exploratory data analysis (EDA) with visualizations
 
 Feature selection using SelectKBest
 
-Models:
+## Models:
 
-K-Nearest Neighbors (KNN)
-
-Support Vector Machine (SVM)
-
-Random Forest
+- K-Nearest Neighbors (KNN)
+- Support Vector Machine (SVM)
+- Random Forest
 
 Model evaluation with metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC
 
 Hyperparameter tuning using GridSearchCV
 
-🧪 Technologies Used
-Python
-
-Jupyter Notebook / Google Colab
-
-Scikit-learn
-
-Pandas, NumPy
+## 🧪 Technologies Used
+- Python
+- Jupyter Notebook / Google Colab
+- Scikit-learn
+- Pandas, NumPy
 
 Matplotlib, Seaborn, Plotly
 
 📝 How to Use
-Clone this repository
-Open the notebook:
-
+1. Clone this repository
+2. Open the notebook:
 Locally via Jupyter Notebook, or
 
 In Google Colab:
-
 Upload or link your dataset (plant_growth_data.csv).
 
-Run the notebook to train and evaluate the models.
+3. Run the notebook to train and evaluate the models.
 
-📊 Results
+## 📊 Results
 The Random Forest model yielded the best performance, achieving high accuracy and robust metrics across evaluation criteria. All results are reproducible within the notebook.
 
-📌 Future Improvements
-Implement more advanced models like XGBoost or LightGBM
+## 📌 Future Improvements
+- Implement more advanced models like XGBoost or LightGBM
 
-Deploy the model with a web interface (e.g., using Flask)
+- Deploy the model with a web interface (e.g., using Flask)
 
-Use cross-validation visualization tools.
+- Use cross-validation visualization tools.
 
-🧑‍💻 Authors
-Mayank & Riddhi
+## 🧑‍💻 Authors
+Mayank Pimpale & Riddhi Deogade
 
 
