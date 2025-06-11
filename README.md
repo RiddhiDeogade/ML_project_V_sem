@@ -30,7 +30,7 @@ Hyperparameter tuning using GridSearchCV
 
 Matplotlib, Seaborn, Plotly
 
-📝 How to Use
+## 📝 How to Use
 1. Clone this repository
 2. Open the notebook: Locally via Jupyter Notebook, or In Google Colab: upload or link your dataset (plant_growth_data.csv).
 3. Run the notebook to train and evaluate the models.
