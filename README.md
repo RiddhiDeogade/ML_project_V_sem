@@ -45,7 +45,7 @@ The Random Forest model yielded the best performance, achieving high accuracy an
 
 - Use cross-validation visualization tools.
 
-## 🧑‍💻 Authors
+## 🧑‍💻 Project By
 Mayank Pimpale & Riddhi Deogade
 
 
